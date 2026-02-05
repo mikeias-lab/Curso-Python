@@ -1,8 +1,8 @@
-
-#não deu certo
-
-'''import pygame
-pygame.init()
-pygame.mixer.music.load('???.mp3')
+import pygame
+import time
+pygame.mixer.init()
+pygame.mixer.music.load('musica.mp3')
+print('Musica carregada com sucesso')
 pygame.mixer.music.play()
-pygame.event.wait()'''
+while pygame.mixer.music.get_busy():
+    time.sleep(1)
