@@ -11,4 +11,3 @@ print('{} * {:2} = {}'.format (t, '8', t*8))
 print('{} * {:2} = {}'.format (t, '9', t*9))
 print('{} * {:2} = {}'.format (t, '10', t*10))
 print('_' * 20)
-
