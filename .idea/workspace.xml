@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f746066e-687f-4f1a-989c-38a58030919a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex014.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex017.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex022.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex023.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex025.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex026.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex027.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex028.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex029.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex030.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex031.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex032.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex033.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex034.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex035.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="38rkWjyv7kUhH6HYiFjqD8ruL6Q" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Aula 06.b.executor": "Run",
+    "Python.Aula 06.executor": "Run",
+    "Python.Aula 07.executor": "Run",
+    "Python.Aula 08.executor": "Run",
+    "Python.Aula 08b.executor": "Run",
+    "Python.Aula 09.a.executor": "Run",
+    "Python.Aula 09.executor": "Run",
+    "Python.Aula 10.executor": "Run",
+    "Python.Aula 11.executor": "Run",
+    "Python.ex000.executor": "Run",
+    "Python.ex001.executor": "Run",
+    "Python.ex002.executor": "Run",
+    "Python.ex003.executor": "Run",
+    "Python.ex004.executor": "Run",
+    "Python.ex005.executor": "Run",
+    "Python.ex006.executor": "Run",
+    "Python.ex007.executor": "Run",
+    "Python.ex008.executor": "Run",
+    "Python.ex009.executor": "Run",
+    "Python.ex010.executor": "Run",
+    "Python.ex011.executor": "Run",
+    "Python.ex012.executor": "Run",
+    "Python.ex013.executor": "Run",
+    "Python.ex014.executor": "Run",
+    "Python.ex015.executor": "Run",
+    "Python.ex016.executor": "Run",
+    "Python.ex017.executor": "Run",
+    "Python.ex018.executor": "Run",
+    "Python.ex019.executor": "Run",
+    "Python.ex020.executor": "Run",
+    "Python.ex021.executor": "Run",
+    "Python.ex022.executor": "Run",
+    "Python.ex023.executor": "Run",
+    "Python.ex024.executor": "Run",
+    "Python.ex025.executor": "Run",
+    "Python.ex026.executor": "Run",
+    "Python.ex027.executor": "Run",
+    "Python.ex028.executor": "Run",
+    "Python.ex029.executor": "Run",
+    "Python.ex030.executor": "Run",
+    "Python.ex031.executor": "Run",
+    "Python.ex032.executor": "Run",
+    "Python.ex033.executor": "Run",
+    "Python.ex034.executor": "Run",
+    "Python.ex035.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/SaiekimLand/Desktop/Estudos/Curso Python/Exercícios",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SaiekimLand\Desktop\Estudos\Curso Python\Exercícios" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.30387.127" />
+        <option value="bundled-python-sdk-3944b0c99280-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.127" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f746066e-687f-4f1a-989c-38a58030919a" name="Changes" comment="" />
+      <created>1769565110407</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769565110407</updated>
+      <workItem from="1769565111421" duration="2204000" />
+      <workItem from="1769567989590" duration="76000" />
+      <workItem from="1769568313671" duration="29000" />
+      <workItem from="1769629305990" duration="4553000" />
+      <workItem from="1769635556917" duration="630000" />
+      <workItem from="1769642596870" duration="3031000" />
+      <workItem from="1769725380027" duration="8551000" />
+      <workItem from="1769899199022" duration="5091000" />
+      <workItem from="1770078589990" duration="9606000" />
+      <workItem from="1770156651839" duration="383000" />
+      <workItem from="1770250106203" duration="2854000" />
+      <workItem from="1770427644025" duration="2166000" />
+      <workItem from="1770681855764" duration="4083000" />
+      <workItem from="1770851250145" duration="5721000" />
+      <workItem from="1770991605389" duration="4341000" />
+      <workItem from="1771286908485" duration="6470000" />
+      <workItem from="1771366977911" duration="2776000" />
+      <workItem from="1771454341502" duration="4951000" />
+      <workItem from="1771539671594" duration="3878000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Curso_Python$ex029.coverage" NAME="ex029 Coverage Results" MODIFIED="1771293422994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios" />
+    <SUITE FILE_PATH="coverage/Curso_Python$ex000.coverage" NAME="ex000 Coverage Results" MODIFIED="1771544031382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aulas" />
+    <SUITE FILE_PATH="coverage/Curso_Python$ex020.coverage" NAME="ex020 Coverage Results" MODIFIED="1770083510981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios" />
+    <SUITE FILE_PATH="coverage/Curso_Python$ex003.coverage" NAME="ex003 Coverage Results" MODIFIED="1769643271746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios" />
+    <SUITE FILE_PATH="coverage/Curso_Python$ex035.coverage" NAME="ex035 Coverage Results" MODIFIED="1771540126731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios" />
+    <SUITE FILE_PATH="coverage/Curso_Python$ex026.coverage" NAME="ex026 Coverage Results" MODIFIED="1770994364606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios" />
+    <SUITE FILE_PATH="coverage/Curso_Python$ex009.coverage" NAME="ex009 Coverage Results" MODIFIED="1770852519938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios" />
+    <SUITE FILE_PATH="coverage/Curso_Python$Aula_06.coverage" NAME="Aula 06 Coverage Results" MODIFIED="1769629893613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aulas" />
+    <SUITE FILE_PATH="coverage/Curso_Python$ex015.coverage" NAME="ex015 Coverage Results" MODIFIED="1769734310033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios" />
+    <SUITE FILE_PATH="coverage/Curso_Python$Aula_07.coverage" NAME="Aula 07 Coverage Results" MODIFIED="1769634233971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aulas" />
+    <SUITE FILE_PATH="coverage/Curso_Python$ex006.coverage" NAME="ex006 Coverage Results" MODIFIED="1769644378098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios" />
+    <SUITE FILE_PATH="coverage/Curso_Python$ex012.coverage" NAME="ex012 Coverage Results" MODIFIED="1769732947873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios" />
+    <SUITE FILE_PATH="coverage/Curso_Python$ex031.coverage" NAME="ex031 Coverage Results" MODIFIED="1771369438164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios" />
+    <SUITE FILE_PATH="coverage/Curso_Python$Aula_09_a.coverage" NAME="Aula 09.a Coverage Results" MODIFIED="1770428301329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aulas" />
+    <SUITE FILE_PATH="coverage/Curso_Python$ex018.coverage" NAME="ex018 Coverage Results" MODIFIED="1770080004365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios" />
+    <SUITE FILE_PATH="coverage/Curso_Python$ex024.coverage" NAME="ex024 Coverage Results" MODIFIED="1770856852279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios" />
+    <SUITE FILE_PATH="coverage/Curso_Python$Aula_11.coverage" NAME="Aula 11 Coverage Results" MODIFIED="1771543289759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aulas" />
+    <SUITE FILE_PATH="coverage/Curso_Python$ex033.coverage" NAME="ex033 Coverage Results" MODIFIED="1771458481091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios" />
+    <SUITE FILE_PATH="coverage/Curso_Python$ex004.coverage" NAME="ex004 Coverage Results" MODIFIED="1769643437112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios" />
+    <SUITE FILE_PATH="coverage/Curso_Python$ex001.coverage" NAME="ex001 Coverage Results" MODIFIED="1769643400293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios" />
+    <SUITE FILE_PATH="coverage/Curso_Python$ex027.coverage" NAME="ex027 Coverage Results" MODIFIED="1770995886433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios" />
+    <SUITE FILE_PATH="coverage/Curso_Python$Aula_06_b.coverage" NAME="Aula 06.b Coverage Results" MODIFIED="1769630445432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aulas" />
+    <SUITE FILE_PATH="coverage/Curso_Python$ex010.coverage" NAME="ex010 Coverage Results" MODIFIED="1769728736188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios" />
+    <SUITE FILE_PATH="coverage/Curso_Python$ex013.coverage" NAME="ex013 Coverage Results" MODIFIED="1769732447935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios" />
+    <SUITE FILE_PATH="coverage/Curso_Python$Aula_08.coverage" NAME="Aula 08 Coverage Results" MODIFIED="1769899758870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aulas" />
+    <SUITE FILE_PATH="coverage/Curso_Python$ex019.coverage" NAME="ex019 Coverage Results" MODIFIED="1770082634146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios" />
+    <SUITE FILE_PATH="coverage/Curso_Python$ex016.coverage" NAME="ex016 Coverage Results" MODIFIED="1769902384190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios" />
+    <SUITE FILE_PATH="coverage/Curso_Python$ex007.coverage" NAME="ex007 Coverage Results" MODIFIED="1769645543263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios" />
+    <SUITE FILE_PATH="coverage/Curso_Python$ex022.coverage" NAME="ex022 Coverage Results" MODIFIED="1770851304033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios" />
+    <SUITE FILE_PATH="coverage/Curso_Python$ex025.coverage" NAME="ex025 Coverage Results" MODIFIED="1770992381992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios" />
+    <SUITE FILE_PATH="coverage/Curso_Python$Aula_08b.coverage" NAME="Aula 08b Coverage Results" MODIFIED="1771289547996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aulas" />
+    <SUITE FILE_PATH="coverage/Curso_Python$ex030.coverage" NAME="ex030 Coverage Results" MODIFIED="1771368447771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios" />
+    <SUITE FILE_PATH="coverage/Curso_Python$ex028.coverage" NAME="ex028 Coverage Results" MODIFIED="1771542763138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios" />
+    <SUITE FILE_PATH="coverage/Curso_Python$ex021.coverage" NAME="ex021 Coverage Results" MODIFIED="1770686250759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios" />
+    <SUITE FILE_PATH="coverage/Curso_Python$ex008.coverage" NAME="ex008 Coverage Results" MODIFIED="1769726045281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios" />
+    <SUITE FILE_PATH="coverage/Curso_Python$ex005.coverage" NAME="ex005 Coverage Results" MODIFIED="1769643312415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios" />
+    <SUITE FILE_PATH="coverage/Curso_Python$ex034.coverage" NAME="ex034 Coverage Results" MODIFIED="1771542575864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios" />
+    <SUITE FILE_PATH="coverage/Curso_Python$Aula_10.coverage" NAME="Aula 10 Coverage Results" MODIFIED="1771289173918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aulas" />
+    <SUITE FILE_PATH="coverage/Curso_Python$ex002.coverage" NAME="ex002 Coverage Results" MODIFIED="1769643202595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios" />
+    <SUITE FILE_PATH="coverage/Curso_Python$ex011.coverage" NAME="ex011 Coverage Results" MODIFIED="1769730216121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios" />
+    <SUITE FILE_PATH="coverage/Curso_Python$Aula_09.coverage" NAME="Aula 09 Coverage Results" MODIFIED="1770683765902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aulas" />
+    <SUITE FILE_PATH="coverage/Curso_Python$ex014.coverage" NAME="ex014 Coverage Results" MODIFIED="1769733603561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios" />
+    <SUITE FILE_PATH="coverage/Curso_Python$ex017.coverage" NAME="ex017 Coverage Results" MODIFIED="1770079015579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios" />
+    <SUITE FILE_PATH="coverage/Curso_Python$ex032.coverage" NAME="ex032 Coverage Results" MODIFIED="1771456502955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios" />
+    <SUITE FILE_PATH="coverage/Curso_Python$ex023.coverage" NAME="ex023 Coverage Results" MODIFIED="1770855879450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios" />
+  </component>
+</project>
