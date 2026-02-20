@@ -1,1 +1,2 @@
-print('Conteudo das aulas')
+n = 2+3==0
+print(bool(n))
