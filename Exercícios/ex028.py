@@ -12,7 +12,7 @@ if r == n:
     print('Parabéns, o número escolhido realmente foi {}'.format(n))
 else:
     print('Que pena, não foi o {}, e sim {}, mais sorte na próxima!'.format(r, n))
-'''
+
 #solução do professor
 
 from random import randint
@@ -28,4 +28,4 @@ if jogador == computador:
     print('PARABÉNS, você conseguiu me vencer!')
 else:
     print('GANHEI! Eu pensei no número {} e não no {}!'.format(computador, jogador))
-    '''
+
