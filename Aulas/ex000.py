@@ -1,8 +1,5 @@
-tempo = int(input('Quanto anos tem sua moto? '))
-if tempo <=3:
-    print('Novinha heim!!!')
-elif tempo > 3 < 6:
-    print('Tem que continuar cuidando')
-else:
-    print('Tá precisando trocar já mano!')
-print('---FIM---')
+s = 0
+for c in range (0, 3):
+    n = int(input('Digite um número: '))
+    s += n
+print('O valor somado é {}'.format(s))

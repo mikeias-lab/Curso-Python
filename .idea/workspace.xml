@@ -46,7 +46,13 @@
       <change afterPath="$PROJECT_DIR$/Exercícios/ex043.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Exercícios/ex044.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Exercícios/ex045.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex046.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex047.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex048.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex049.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex050.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aulas/ex000.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aulas/ex000.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,6 +146,10 @@
     "Python.ex043.executor": "Run",
     "Python.ex044.executor": "Run",
     "Python.ex045.executor": "Run",
+    "Python.ex046.executor": "Run",
+    "Python.ex047.executor": "Run",
+    "Python.ex048.executor": "Run",
+    "Python.ex049.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -167,7 +177,6 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.30387.127" />
         <option value="bundled-python-sdk-3944b0c99280-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.127" />
       </set>
     </attachedChunks>
@@ -202,7 +211,8 @@
       <workItem from="1771717928065" duration="6421000" />
       <workItem from="1771848594456" duration="4000" />
       <workItem from="1771879615886" duration="8415000" />
-      <workItem from="1772065174137" duration="7436000" />
+      <workItem from="1772065174137" duration="7853000" />
+      <workItem from="1772754339252" duration="80000" />
     </task>
     <servers />
   </component>
