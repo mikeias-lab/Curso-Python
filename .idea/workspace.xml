@@ -61,6 +61,9 @@
       <change afterPath="$PROJECT_DIR$/Exercícios/ex058.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Exercícios/ex059.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Exercícios/ex060.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex061.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex062.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex063.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -170,6 +173,9 @@
     "Python.ex058.executor": "Run",
     "Python.ex059.executor": "Run",
     "Python.ex060.executor": "Run",
+    "Python.ex061.executor": "Run",
+    "Python.ex062.executor": "Run",
+    "Python.ex063.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
