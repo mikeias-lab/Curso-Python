@@ -1,5 +1,6 @@
-s = 0
-for c in range (0, 3):
-    n = int(input('Digite um número: '))
-    s += n
-print('O valor somado é {}'.format(s))
+v1, v2, v3 = map(int, input().split())
+maiorAB = (v1 + v2 + abs(v1 - v2)) / 2
+if maiorAB > v3:
+    print('{:.0f} eh o maior'.format(maiorAB))
+else:
+    print('{:.0f} eh o maior'.format(v3))
