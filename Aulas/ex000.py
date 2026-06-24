@@ -1,6 +1,8 @@
-v1, v2, v3 = map(int, input().split())
-maiorAB = (v1 + v2 + abs(v1 - v2)) / 2
-if maiorAB > v3:
-    print('{:.0f} eh o maior'.format(maiorAB))
-else:
-    print('{:.0f} eh o maior'.format(v3))
+n = s = 0
+while True:
+    n = int(input('Digite um número: '))
+    if n == 999:
+        break
+    s += n
+# print('a soma dos valores é {}'.format(s))
+print(f'a soma dos valores é {s}') #ultilizando a fstring
